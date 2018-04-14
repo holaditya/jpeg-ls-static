@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+930075125 source:c:\users\aditya\desktop\code block codes\static_jpeg-ls\bitio.c
+	"global.h"
+	"bitio.h"
+
+930075255 c:\users\aditya\desktop\code block codes\static_jpeg-ls\global.h
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+930075155 c:\users\aditya\desktop\code block codes\static_jpeg-ls\bitio.h
+	"global.h"
+
